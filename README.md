@@ -5,4 +5,4 @@
 A library for creating command line tools with node.
 
 # Notice
-This library is clone of project [lucascaro/console-commando](https://github.com/lucascaro/console-commando), except that it is generates for ES5 instead of ES6.
+This library is clone of project [lucascaro/console-commando](https://github.com/lucascaro/console-commando), except that it generates for ES5 instead of ES6.
