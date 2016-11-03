@@ -12,11 +12,11 @@
     "docs": "esdoc -c esdoc.json",
     "prepublish": "npm run compile"
   },
-  "author": "Lucas Caro <lucascaro@gmail.com>",
+  "author": "Lucas Caro <lucascaro@gmail.com> - Edited by: Romeo Disca",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:lucascaro/console-commando.git"
+    "url": "git@github.com:thinkrapido/console-commando-es5.git"
   },
   "devDependencies": {
     "@types/chalk": "^0.4.29",
