@@ -1,5 +1,5 @@
 {
-  "name": "console-commando",
+  "name": "console-commando-es5",
   "version": "2.0.1",
   "description": "A tool for creating console commands",
   "main": "lib/commando.js",
